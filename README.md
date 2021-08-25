@@ -27,7 +27,7 @@
 
 ## Requirements
 * Please install the required dependancies.
-* Download glove encodings from [here](https://www.kaggle.com/danielwillgeorge/glove6b100dtxt).
+* Download glove encodings from [here](https://www.kaggle.com/danielwillgeorge/glove6b100dtxt) and place it in the same directory.
 * Text format of my document is as follows:
   * Chapter Name on the first line followed by a blank line.
   * Paragraph-title followed by the paragraph description.
