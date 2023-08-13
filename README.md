@@ -1,4 +1,4 @@
-# Subjective Answer Finder &nbsp;[![](https://img.shields.io/badge/python-3.8.5-blue.svg)](https://www.python.org/downloads/) [![platform](https://img.shields.io/badge/platform-JupyterNB-red.svg)](https://github.com/Viral-Doshi/Auto-Answering-NLP) 
+# Subjective Answer Writer &nbsp;[![](https://img.shields.io/badge/python-3.8.5-blue.svg)](https://www.python.org/downloads/) [![platform](https://img.shields.io/badge/platform-JupyterNB-red.svg)](https://github.com/Viral-Doshi/Auto-Answering-NLP) 
 
 
 ## Objectives:<br>
